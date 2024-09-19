@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @jmateus842
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Cyber Security, AI, and Data Science.
+- 🌱 I’m currently learning how distributed systems work (VMs, containers, hadoop, kubernetes)
 - 📫 How to reach me ...
 
 <!---
